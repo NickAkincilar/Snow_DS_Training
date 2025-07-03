@@ -1,4 +1,4 @@
-# ML & AI on Snowflake with Chase
+# ML & AI on Snowflake
 
 Welcome to the **Machine Learning & AI on Snowflake** learning repository! This repo is designed to teach data scientists, ML engineers, and analytics professionals how to build, deploy, and manage modern AI/ML solutions directly on the Snowflake.
 
